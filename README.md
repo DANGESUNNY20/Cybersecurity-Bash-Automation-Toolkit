@@ -1,5 +1,3 @@
-I have refined your **README.md** to match the structure you requested, incorporating your specific script details and professional links. You can copy the content below directly into your repository.
-
 ---
 
 # 🛡️ Cybersecurity Bash Automation Toolkit
