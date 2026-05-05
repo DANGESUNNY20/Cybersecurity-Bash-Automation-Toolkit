@@ -2,16 +2,16 @@
 
 # 🛡️ Cybersecurity Bash Automation Toolkit
 
+A growing collection of **Bash-based automation scripts** focused on system monitoring, security checks, and penetration testing support.
 
-A growing collection of **Bash-based automation scripts** designed for system monitoring, security checks, and penetration testing support[cite: 1, 2].
-
-This repository showcases practical implementation of Linux commands, scripting logic, and cybersecurity-focused automation[cite: 1, 2].
+This repository demonstrates practical use of Linux commands, scripting logic, and real-world cybersecurity automation.
 
 ---
 
 ## 🚀 Project Overview
 
-This repository is continuously updated as I learn and implement new Bash scripting concepts[cite: 1, 2]. Each script is built with a real-world use case in mind, focusing on **security, automation, and system administration tasks**[cite: 2].
+This project is continuously updated as I learn and implement new Bash scripting concepts.
+Each script is designed with a **real-world security or system administration use case**.
 
 ---
 
@@ -20,91 +20,109 @@ This repository is continuously updated as I learn and implement new Bash script
 ```bash
 Cybersecurity-Bash-Automation-Toolkit/
 │
-├── scripts/            # All automation scripts (e.g., menu.sh)
-├── screenshots/        # Proof of execution (chmod 3.png, ex 1.png, etc.)
-└── README.md           # Project documentation
+├── scripts/            # Bash automation scripts
+├── screenshots/        # Execution proof images
+└── README.md           # Documentation
 ```
 
 ---
 
 ## 🧰 Scripts Included
 
-### 🔐 1. System Information & Recon Menu
+### 🔐 System Information & Recon Menu (`menu.sh`)
 
-*   Checks present working directory[cite: 2].
-*   Monitors system uptime[cite: 2].
-*   Audits the home directory structure[cite: 2].
-*   Displays system IP address configuration[cite: 2].
-*   Checks disk partition details using `lsblk`[cite: 1, 2].
-
-📌 **File:** `menu.sh`[cite: 1, 2]
+* Check present working directory
+* Monitor system uptime
+* Audit home directory
+* Display IP configuration
+* View disk partitions using `lsblk`
 
 ---
 
-*(More scripts will be added as learning progresses 🚀)*[cite: 2]
-
----
-
-## ▶️ How to Run Scripts
+## ▶️ How to Run
 
 ```bash
-# Grant execution permissions
+# Give permission
 chmod +x menu.sh
 
-# Run the script
+# Run script
 ./menu.sh
 ```
-[cite: 1, 2]
 
 ---
 
 ## 📸 Screenshots
 
-### 🖥️ Execution Proof
-*   **Creating the Script:** ![Vim Editor](creating%20vim.png)
-*   **Script Logic:** ![Code in Vim](adding%20code%20in%20vim%202.png)
-*   **Setting Permissions:** ![Chmod](chmod%203.png)
-*   **Sample Output:** ![Execution](ex%201.png)
+### 1️⃣ Creating Script in Vim
+
+
+
+### 2️⃣ Adding Code in Vim
+
+![Adding Code](screenshots/adding%20code%20in%20vim%202%20.png)
+
+### 3️⃣ Setting Permissions (chmod)
+
+![Chmod](screenshots/chmod%203%20.png)
+
+### 4️⃣ Script Execution Output
+
+![Execution](screenshots/ex%201.png)
+
+### 5️⃣ Menu Option 1
+
+![Option1](screenshots/opt%201.png)
+
+### 6️⃣ Menu Option 2
+
+![Option2](screenshots/opt2.png)
+
+### 7️⃣ Menu Option 4 (Hide Option)
+
+![Option4](screenshots/opt%204%20shide.png)
 
 ---
 
 ## 🎯 Learning Objectives
 
-*   Master **Bash scripting fundamentals**[cite: 2].
-*   Implement **case statements and user input handling**[cite: 1, 2].
-*   Automate **cybersecurity and system administration tasks**[cite: 2].
-*   Build a **portfolio-ready project repository** for career growth[cite: 1, 2].
+* Understand **Bash scripting fundamentals**
+* Work with **case statements & user input**
+* Automate **security & system admin tasks**
+* Build a **portfolio-ready cybersecurity project**
 
 ---
 
 ## 🔒 Cybersecurity Use Cases
 
-*   Quick system reconnaissance[cite: 2].
-*   Network configuration auditing[cite: 1, 2].
-*   Storage and partition monitoring[cite: 2].
-*   Automating repetitive manual CLI checks[cite: 2].
+* Quick system reconnaissance
+* Network configuration checks
+* Disk & storage monitoring
+* Automating repetitive CLI tasks
 
 ---
 
 ## 🚀 Future Enhancements
 
-*   📡 Nmap automation scripts[cite: 1, 2].
-*   🔍 API reconnaissance tools[cite: 1, 2].
-*   📋 Advanced menu-driven CLI tools[cite: 2].
-*   📊 Log analysis and report generation[cite: 2].
+* 📡 Nmap automation scripts
+* 🔍 API reconnaissance tools
+* 📋 Advanced menu-driven tools
+* 📊 Log analysis & reporting
 
 ---
 
 ## 👨‍💻 Author
 
-**Sunny Dange**[cite: 1, 2]
-Cyber Security | VAPT | Linux | Networking[cite: 2]
+**Sunny Dange**
+Cyber Security | VAPT | Linux | Networking
 
-*   **GitHub:** [https://github.com/DANGESUNNY20](https://github.com/DANGESUNNY20)[cite: 2]
-*   **LinkedIn:** [https://www.linkedin.com/in/sunnydange](https://www.linkedin.com/in/sunnydange)[cite: 2]
+* 🔗 GitHub: [https://github.com/DANGESUNNY20](https://github.com/DANGESUNNY20)
+* 🔗 LinkedIn: [https://www.linkedin.com/in/sunnydange](https://www.linkedin.com/in/sunnydange)
 
 ---
 
 ## ⭐ Note
 
-This repository is actively maintained and updated as part of my continuous learning in **Bash scripting and cybersecurity automation**[cite: 1, 2].
+This repository is actively maintained as part of my journey in **Bash scripting and cybersecurity automation**.
+
+---
+
