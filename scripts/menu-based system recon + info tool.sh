@@ -20,7 +20,7 @@ case $choice in
  ;;
 4) ifconfig | grep inet 
  ;;
-5)  lablk
+5)  lsblk
   ;;
 *) echo " invalid options "
 esac 
