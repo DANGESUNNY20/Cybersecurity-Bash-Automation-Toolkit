@@ -1,5 +1,4 @@
 ---
-
 # 🛡️ Cybersecurity Bash Automation Toolkit
 
 A growing collection of **Bash-based automation scripts** focused on system monitoring, security checks, and penetration testing support.
@@ -55,7 +54,7 @@ chmod +x menu.sh
 
 ### 1️⃣ Creating Script in Vim
 
-
+![Creating Vim](screenshots/creating%20vim.png)
 
 ### 2️⃣ Adding Code in Vim
 
@@ -125,4 +124,5 @@ Cyber Security | VAPT | Linux | Networking
 This repository is actively maintained as part of my journey in **Bash scripting and cybersecurity automation**.
 
 ---
+
 
