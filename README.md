@@ -2,6 +2,7 @@
 
 # 🛡️ Cybersecurity Bash Automation Toolkit
 
+
 A growing collection of **Bash-based automation scripts** designed for system monitoring, security checks, and penetration testing support[cite: 1, 2].
 
 This repository showcases practical implementation of Linux commands, scripting logic, and cybersecurity-focused automation[cite: 1, 2].
