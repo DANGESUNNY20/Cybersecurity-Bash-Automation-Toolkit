@@ -1,5 +1,5 @@
 ---
-# 🛡️ Cybersecurity Bash Automation Toolkit
+# 🛡️ Shell-Utility-Toolkit
 
 A growing collection of **Bash-based automation scripts** focused on system monitoring, security checks, and penetration testing support.
 
